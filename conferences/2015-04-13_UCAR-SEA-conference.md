@@ -7,10 +7,8 @@
 
 ### Submission information
 **Submitted by:** Tracy Teal  
-**Date submitted:** 2015-01-13
-
-### Acceptance status
-**Status:** Accepted  
+**Date submitted:** 2015-01-13  
+**Acceptance Status:** Accepted  
 (Options: Submitted, In Review, Accepted, Declined)
 
 ### Abstract
