@@ -1,16 +1,16 @@
 ### Conference
-**Title:** University Corporation for Atmospheric Research Software Engineering Assembly Conference 2015
-**Theme:** Python in Scientific Computing
-**Dates:** April 13 - 17, 2015  
-**Location:** NCAR Foothills Laboratory, Boulder, CO USA
+**Title:** University Corporation for Atmospheric Research Software Engineering Assembly Conference 2015  
+**Theme:** Python in Scientific Computing  
+**Dates:** April 13 - 17, 2015    
+**Location:** NCAR Foothills Laboratory, Boulder, CO USA  
 **URL:** [https://sea.ucar.edu/conference/2015](https://sea.ucar.edu/conference/2015)
 
 ### Submission information
-**Submitted by:** Tracy Teal
+**Submitted by:** Tracy Teal  
 **Date submitted:** 2015-01-13
 
 ### Acceptance status
-**Status:** Accepted
+**Status:** Accepted  
 (Options: Submitted, In Review, Accepted, Declined)
 
 ### Abstract
